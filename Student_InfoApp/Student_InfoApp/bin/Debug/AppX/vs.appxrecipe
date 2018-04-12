@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-Q7IDQO1</Machine>
+    <WindowsUser>Lab3_2</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15ac4233-6755-4604-97d2-2a72bc01276d</PackageIdentityName>
+    <RegisteredManifestChecksum>13E14FA80B905D947F4AD343F7F1D436E2987DBE0FE0F637334D24FEB8A33065</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15ac4233-6755-4604-97d2-2a72bc01276d_1.0.0.0_neutral__1r7vm3e1bc1hr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15ac4233-6755-4604-97d2-2a72bc01276d_1r7vm3e1bc1hr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15ac4233-6755-4604-97d2-2a72bc01276d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mimma Aktar</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-15T22:01:47.583</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\Student_InfoApp.exe">
+      <PackagePath>Student_InfoApp.exe</PackagePath>
+      <Modified>2017-07-15T23:09:56.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-07-15T22:01:47.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-07-15T22:40:27.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Mimma Akter\Student_InfoApp\Student_InfoApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-07-15T22:01:47.447</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
